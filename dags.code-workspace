@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\airflow\\dags"
+		},
+		{
+			"path": "..\\..\\..\\Latoken\\module"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
